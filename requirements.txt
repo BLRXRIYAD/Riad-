@@ -1,1 +1,7 @@
-
+Flask
+requests
+psutil
+PyJWT
+protobuf
+google-protobuf
+urllib3
